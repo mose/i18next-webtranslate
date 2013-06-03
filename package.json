@@ -22,6 +22,7 @@
     , "lodash": ">= 0.5.x"
     , "zipstream": ">=0.2.1"
     , "i18next": ">=1.5.0"
+    , "flat": ">=1.0.0"
     }
   , "devDependencies": {}
   , "scripts": {}
